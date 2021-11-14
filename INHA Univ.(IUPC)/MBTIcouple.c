@@ -91,7 +91,7 @@ int main(void)
     for(i=0; i<=3; i++)
     {
         printf("%c",arr[i]);
-    }
+    } 
     
   return 0;
 }
