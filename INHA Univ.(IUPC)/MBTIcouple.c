@@ -92,6 +92,6 @@ int main(void)
     {
         printf("%c",arr[i]);
     } 
-    
+     
   return 0;
 }
