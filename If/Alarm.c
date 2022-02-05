@@ -20,7 +20,7 @@ int main(void)
         min=60-sum;  
     }
     
-   else min-=45;//45분을 줄입니다!
+   else min-=45;//45분을 줄입니다! 
    printf("%d %d",hour,min);
    return 0;
 }
