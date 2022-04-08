@@ -7,7 +7,7 @@ int main(void)
     char arr[5]={'\0'}; 
     char mbti[5]={'\0'};
     for(i=0; i<=3; i++)
-    {
+    { 
         scanf("%c",&n[i]); 
     }
     mbti[0]=n[0];
